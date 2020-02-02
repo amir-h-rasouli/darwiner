@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-printf("%d", 500000);
+printf("%d", 400000);
